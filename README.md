@@ -93,8 +93,8 @@ Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Con
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohenriqueeee&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="110" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohenriqueeee&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
