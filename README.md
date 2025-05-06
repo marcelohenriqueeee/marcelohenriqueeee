@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcelo Henrique
+# 👨‍💻 Marcelo Henrique
 
 **`Desenvolvedor FullStack`**
 
