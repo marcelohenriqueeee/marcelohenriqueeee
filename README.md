@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Concluí o ensino médio na EEEP José Victor Fontenele Filho, com o curso técnico em Desenvolvimento de sistemas. Atualmente tenho dedico meu tempo e estudos na criação e planejamento de projetos diversos no ramo da programação web.
+MSou Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Desde cedo, a tecnologia despertou minha curiosidade, e foi essa paixão que me levou a concluir o curso técnico em Desenvolvimento de Sistemas pela EEEP José Victor Fontenele Filho. Hoje, sigo me aprofundando no universo do desenvolvimento web, onde gosto de explorar ideias, criar projetos e me desafiar constantemente.
 
 ---
 
