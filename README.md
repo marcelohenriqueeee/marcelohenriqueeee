@@ -1,6 +1,6 @@
 # 👨‍💻 Marcelo Henrique
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Desde cedo, a tecnologia despertou minha curiosidade, e foi essa paixão que me levou a concluir o curso técnico em Desenvolvimento de Sistemas pela EEEP José Victor Fontenele Filho. Hoje, sigo me aprofundando no universo do desenvolvimento web, onde gosto de explorar ideias, criar projetos e me desafiar constantemente.
 
@@ -16,14 +16,7 @@ Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
