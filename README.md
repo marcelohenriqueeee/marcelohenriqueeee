@@ -20,8 +20,8 @@ Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Des
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="CSS" 
+    title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" 
@@ -38,6 +38,15 @@ Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Des
 
 <img 
     align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -47,12 +56,23 @@ Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Des
 
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="MySql" 
+    title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-plain-wordmark.svg" 
+/>
+
+
 <img 
     align="left" 
     alt="Git" 
@@ -69,23 +89,18 @@ Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+
 
 <img 
     align="left" 
-    alt="NodeJs" 
-    title="NodeJs"
+    alt="JQuery" 
+    title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
+
+
 
 <br/>
 <br/>
