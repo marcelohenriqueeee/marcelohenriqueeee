@@ -38,6 +38,15 @@ Me chamo Marcelo Henrique, tenho 19 anos e sou natural de Viçosa do Ceará. Des
 
 <img 
     align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="NodeJs" 
     title="NodeJs"
     width="30px" 
